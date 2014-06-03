@@ -85,7 +85,7 @@ h1 {
 	font-size: 20px;
 	font-family: Lato;
 	color: #3A403F;
-	border-radius: 10px;
+	border-radius: 5px;
 	border: none;
 	position: relative;
 	margin-left: auto;
@@ -95,7 +95,7 @@ h1 {
 
 #submitButton{
 	text-align: center;
-	border-radius: 10px;
+	border-radius: 5px;
 	position: relative;
 	height: 30px;
 	font-family: Lato;
@@ -105,6 +105,8 @@ h1 {
 	margin-left: 5px;
 	margin-right: auto;
 	color: white;
+	border: none;
+	top: -2px;
 }
 
 .addHere {
